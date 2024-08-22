@@ -9,7 +9,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
